@@ -1,4 +1,4 @@
-Hi! I’m a Software Engineer from Minsk.
+Hi! I’m a Researcher from Minsk.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=probeldev&show_icons=true&theme=dark)](https://github.com/probeldev)
 
